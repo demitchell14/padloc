@@ -976,6 +976,10 @@
     "За жал не можевме да ја извржиме миграцијата на важите податоци."
   ],
   [
+    "Admin Portal",
+    ""
+  ],
+  [
     "has invited you to join their organization",
     "ве покани да се придружите на нивната организација"
   ],
@@ -1828,18 +1832,6 @@
     "Извези..."
   ],
   [
-    "About Padloc",
-    "За Padloc"
-  ],
-  [
-    "Website",
-    "Вебсајт"
-  ],
-  [
-    "Contact Support",
-    "Контактирај Поддршка"
-  ],
-  [
     "Type tag name...",
     "Напиши име на ознака..."
   ],
@@ -2136,8 +2128,8 @@
     "Сесијата ви истече. Ве молиме најавете се одново!"
   ],
   [
-    "Some data associated with your account was saved with a newer version of Padloc and cannot be decoded. Please install the latest version of Padloc!",
-    "Некои податоци во вашата сметка се зачувани од понова верзија на Padloc и не може да се дешифрираат. Инсталирајте ја најновата верзија на Padloc!"
+    "Some data associated with your account was saved with a newer version of this app and cannot be decoded. Please install the latest version!",
+    ""
   ],
   [
     "Update Required",
@@ -2162,6 +2154,134 @@
   [
     "Update Available",
     "Достано Ажурирање"
+  ],
+  [
+    "Created",
+    ""
+  ],
+  [
+    "Orgs",
+    ""
+  ],
+  [
+    "owner",
+    ""
+  ],
+  [
+    "Raw Data",
+    ""
+  ],
+  [
+    "Done",
+    ""
+  ],
+  [
+    "Accounts",
+    ""
+  ],
+  [
+    "Logs",
+    ""
+  ],
+  [
+    "lines",
+    ""
+  ],
+  [
+    "Time",
+    ""
+  ],
+  [
+    "Class",
+    ""
+  ],
+  [
+    "User",
+    ""
+  ],
+  [
+    "Device",
+    ""
+  ],
+  [
+    "App Version",
+    ""
+  ],
+  [
+    "Location",
+    ""
+  ],
+  [
+    "Unknown Location",
+    ""
+  ],
+  [
+    "Changes",
+    ""
+  ],
+  [
+    "Object",
+    ""
+  ],
+  [
+    "Audit Logs",
+    ""
+  ],
+  [
+    "API Requests",
+    ""
+  ],
+  [
+    "Display events between",
+    ""
+  ],
+  [
+    "and",
+    ""
+  ],
+  [
+    "Apply",
+    ""
+  ],
+  [
+    "Filter By Email Address...",
+    ""
+  ],
+  [
+    "Action",
+    ""
+  ],
+  [
+    "Endpoint",
+    ""
+  ],
+  [
+    "Response Time",
+    ""
+  ],
+  [
+    "Delete Org",
+    ""
+  ],
+  [
+    "Org",
+    ""
+  ],
+  [
+    "admin",
+    ""
+  ],
+  [
+    "Request",
+    ""
+  ],
+  [
+    "Method",
+    ""
+  ],
+  [
+    "Params",
+    ""
   ],
   [
     "You have been granted access to this vault, but before you can see its contents somebody else with access to it has to log into their account first. Once you have full access, this warning will disappear automatically.",

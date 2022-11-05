@@ -976,6 +976,10 @@
     ""
   ],
   [
+    "Admin Portal",
+    ""
+  ],
+  [
     "has invited you to join their organization",
     ""
   ],
@@ -1828,18 +1832,6 @@
     ""
   ],
   [
-    "About Padloc",
-    ""
-  ],
-  [
-    "Website",
-    ""
-  ],
-  [
-    "Contact Support",
-    ""
-  ],
-  [
     "Type tag name...",
     ""
   ],
@@ -2136,7 +2128,7 @@
     ""
   ],
   [
-    "Some data associated with your account was saved with a newer version of Padloc and cannot be decoded. Please install the latest version of Padloc!",
+    "Some data associated with your account was saved with a newer version of this app and cannot be decoded. Please install the latest version!",
     ""
   ],
   [
@@ -2161,6 +2153,134 @@
   ],
   [
     "Update Available",
+    ""
+  ],
+  [
+    "Created",
+    ""
+  ],
+  [
+    "Orgs",
+    ""
+  ],
+  [
+    "owner",
+    ""
+  ],
+  [
+    "Raw Data",
+    ""
+  ],
+  [
+    "Done",
+    ""
+  ],
+  [
+    "Accounts",
+    ""
+  ],
+  [
+    "Logs",
+    ""
+  ],
+  [
+    "lines",
+    ""
+  ],
+  [
+    "Time",
+    ""
+  ],
+  [
+    "Class",
+    ""
+  ],
+  [
+    "User",
+    ""
+  ],
+  [
+    "Device",
+    ""
+  ],
+  [
+    "App Version",
+    ""
+  ],
+  [
+    "Location",
+    ""
+  ],
+  [
+    "Unknown Location",
+    ""
+  ],
+  [
+    "Changes",
+    ""
+  ],
+  [
+    "Object",
+    ""
+  ],
+  [
+    "Audit Logs",
+    ""
+  ],
+  [
+    "API Requests",
+    ""
+  ],
+  [
+    "Display events between",
+    ""
+  ],
+  [
+    "and",
+    ""
+  ],
+  [
+    "Apply",
+    ""
+  ],
+  [
+    "Filter By Email Address...",
+    ""
+  ],
+  [
+    "Action",
+    ""
+  ],
+  [
+    "Endpoint",
+    ""
+  ],
+  [
+    "Response Time",
+    ""
+  ],
+  [
+    "Delete Org",
+    ""
+  ],
+  [
+    "Org",
+    ""
+  ],
+  [
+    "admin",
+    ""
+  ],
+  [
+    "Request",
+    ""
+  ],
+  [
+    "Method",
+    ""
+  ],
+  [
+    "Params",
     ""
   ],
   [

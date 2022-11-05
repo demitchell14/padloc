@@ -38,7 +38,7 @@ export class Select<T = any> extends LitElement {
         shared,
         css`
             :host {
-                display: block;
+                display: flex;
                 position: relative;
                 padding: 0;
                 --padding: var(--input-padding, 0.8em);
@@ -60,7 +60,7 @@ export class Select<T = any> extends LitElement {
                 text-align: inherit;
                 appearance: none;
                 -webkit-appearance: none;
-                font-weight: bold;
+                font-weight: 600;
             }
 
             :host(.transparent) select {
